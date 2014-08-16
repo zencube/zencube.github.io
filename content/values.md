@@ -1,5 +1,6 @@
-## Values
-The following values are at the core of our work and each of our components
+# Values
+The following values are at the core of our work and each of our components.
+Everything we do, everything we build and everything we strive for is representing these values.
 
 ## Naturalness
 We want to learn from the success in nature and make interactions as natural and enjoyable as possible.
