@@ -4,13 +4,23 @@ html, body {
 }
 
 body {
-    background: url('../images/silk.jpg');
+    background: url('../images/zengarden.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h2 {
     padding-bottom: 0.25em;
     margin: 0.5em 0;
     border-bottom: 1px solid rgba(100, 100, 100, 0.8);    
+}
+
+h2:first-of-type {
+    margin-top: 1em;
+}
+
+nav {
+    margin-bottom: 1em;
 }
 
 nav ul li {
@@ -23,6 +33,11 @@ nav ul li:after {
 
 nav ul li:last-child:after {
     content: "";
+}
+
+ul {
+    list-style: circle;
+    margin-left: 1em;
 }
 
 .logo span {
@@ -53,8 +68,8 @@ nav ul li:last-child:after {
 }
 
 #wrap {
-    width:   80vw;
-    height: 100vh;
+    width:       80vw;
+    min-height: 100vh;
 
     margin-left: 10vw;
     padding:      1em;

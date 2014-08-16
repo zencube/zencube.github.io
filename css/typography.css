@@ -3,7 +3,7 @@ body {
 }
 
 a, a:visited {
-    color: rgb(0, 90, 120);
+    color: rgb(100, 100, 100);
 }
 
 h1 {
@@ -26,6 +26,6 @@ h3 {
 }
 
 strong {
-    color: rgb(0, 90, 120);
+    color: rgb(100, 100, 100);
     font-weight: bold;
 }
