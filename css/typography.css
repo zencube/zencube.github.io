@@ -1,0 +1,31 @@
+body {
+    font-family: 'Muli', serif;
+}
+
+a, a:visited {
+    color: rgb(0, 90, 120);
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    color: rgb(0, 90, 120);
+    font-weight: bold;
+    margin-top: 0.5em;
+}
+
+.logo span {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+strong {
+    color: rgb(0, 90, 120);
+    font-weight: bold;
+}
