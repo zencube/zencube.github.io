@@ -17,7 +17,7 @@
                     <li><a href="index.html">Home</a></li>
                     <li><a href="components.html">Components</a></li>
                     <li><a href="values.html">Values</a></li>
-                    <li><a href="https://github.com/youzentech">Code</a></li>
+                    <li><a href="https://github.com/zencube">Code</a></li>
                 </ul>
             </nav>
             <h1 id="zencube">ZenCube</h1>
@@ -29,7 +29,16 @@
 <li>Sharing &amp; Collaboration</li>
 </ul>
 <p>Carefully crafted, platform independent, build to empower you.</p>
-
+<p><blockquote class="quotd"></blockquote></p>
+<script>
+    var quotd = document.getElementById("quotd");
+    var oReq = new XMLHttpRequest();
+    oReq.onload = function() {
+        quotd.textContent = this.responseText;
+    };
+    oReq.open("get", "https://youniverse-c9-avgp.c9.io/", true);
+    oReq.send();
+</script>
         </section>
         <!-- (c) 2014 by geekonaut.de -->
     </body>
