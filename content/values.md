@@ -14,6 +14,6 @@ Our technology is open source and we share our knowledge to build systems that a
 You have your own mission and your own goals. We help you accomplish those by staying out of your focus.
 
 ## <strong>Subtlety</strong>
-Where other ecosystems try to enfeeble or patronise you, YouZen strives to empower you.
+Where other ecosystems try to enfeeble or patronise you, ZenCube strives to empower you.
 
-YouZen will not get in your way - your data is yours and our mission is to help you grow.
+ZenCube will not get in your way - your data is yours and our mission is to help you grow.

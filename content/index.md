@@ -1,4 +1,4 @@
-# YouZen
+# ZenCube
 ## Your life, your data, your cloud
 
 A cloud ecosystem that gives you control over all that matters to you:
