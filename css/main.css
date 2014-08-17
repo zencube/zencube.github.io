@@ -9,6 +9,21 @@ body {
     background-attachment: fixed;
 }
 
+blockquote {
+    color: rgb(100, 100, 100);
+    font-style: italic;
+    margin: 1em;
+    text-align: center;
+}
+
+blockquote:before {
+    content: "„";
+}
+
+blockquote:after {
+    content: "”";
+}
+
 h2 {
     padding-bottom: 0.25em;
     margin: 0.5em 0;
