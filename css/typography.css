@@ -1,5 +1,13 @@
+@font-face
+{
+font-family: mplus-1p-regular;
+src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-regular.ttf')
+     format("truetype");
+}
+
 body {
-    font-family: 'Muli', sans-serif;
+    font-family: 'Muli', sans-serif; /*'Proxima Nova Regular';*/
+    font-size: 120%;
 }
 
 a, a:visited {
@@ -20,9 +28,14 @@ h3 {
     margin-top: 0.5em;
 }
 
+p {
+    line-height: 1.1em;
+}
+
 .logo span {
     font-size: 100px;
     font-weight: bold;
+    font-family: mplus-1p-regular;
 }
 
 strong {
